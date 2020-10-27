@@ -1,8 +1,8 @@
-var who = 'world';
-function sayhello(){
-    alert('Hello, ' + who + '!');
+var who67 = 'world';
+function sayhello67(){
+    alert('Hello, ' + who67 + '!');
 }
 
 function someone(x){
-    who = x;
+    who67 = x;
 }
