@@ -1,7 +1,8 @@
-function txtchange69(){
-    document.getElementById('txt1').innerHTML = 'word途中';
+function txtchange1(){
+    document.getElementById('txt1').innerHTML = 'ナンバーワン!';
 }
 
-function imgchange69(){
-    document.getElementById('logo').src = './image/ningen.png';
+function imgchange1(){
+    document.getElementById('image1').src =
+'./image/ningen.png';
 }
