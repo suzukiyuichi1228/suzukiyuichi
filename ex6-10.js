@@ -1,4 +1,4 @@
 function imgchange1(){
     document.getElementById('logo').src =
-    './image/ningen.png';
+    './image/bulbon.gif';
 }
