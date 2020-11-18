@@ -3,6 +3,5 @@ function txtchange1(){
 }
 
 function imgchange1(){
-    document.getElementById('image1').src =
-'./image/ningen.png';
+    document.getElementById('logo').src = './image/bulbon.gif';
 }
